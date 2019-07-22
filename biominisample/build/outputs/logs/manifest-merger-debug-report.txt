@@ -1,0 +1,210 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [libBioMini-2.0.1.r2424.aar] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\libBioMini-2.0.1.r2424.aar\a55bd8e5d80bd38961dc8f3307bc6bee\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\696fed009385251968b51fcec26a6853\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.SpeedataG:Device:1.6.8] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\Device-1.6.8.aar\270a84bc276887531fc596ed2d1342c5\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\46656522382cd9a513a36bd49ce0a249\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\3874f245d79ffb30e3b0167545cca560\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\fb504f06500a00161b839c943a307c23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\7035bc7f9e2bdb4729672a06b787eacb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\8e1c5249ac213b4fc14d18aeef045aa3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\b83d704e790761460a5ef80caa605ae5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4fab041faa6944f29aa983c9cde48f40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c5ed6ba1cf4d64a5cd23e05d65d9bd82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\f51474f8a0512dbcdb90066b355ba446\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\142f7a7515f334c345e65dfb2801ec38\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\7b4ec596159782c0f8706ed751a3c6fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4ff5fef9f2b60ab1e8d9af3f0dde8d54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\caaab431aef78cd356e6b4a0228d39a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\acf3732d447e41ae854987bd08f809b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\2a9e3dfc5dbbb4da94d9ce9725f27ec4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\99c79e90f670ea0e1079397f766549d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b1e3565b24b9ffc08a2ae5d2da54dd77\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1039d41c3392774a9a632edf8f9a3d5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c712d5af017393b0b7224b87d23e2934\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f5847dd2c156bb33f46d40f2fa728e74\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\dba844674ca17e72243b669ef49e3329\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\793e9912358cf30203ef4f83968c6870\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\012bb29d49f494d49edf17274f8fb57a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\01d904d1c0b99a520d2e8da894e1941f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\5ce75b90d3347826d7834ec19573645e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b6c10f289227f68905eca52db68b1dd3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7db5f13915aadab10a8714a983ec43d9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4c09b6a10f53246bebe987bbad7d7f58\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b90900f27f3cd67dfcd9146a0e9915e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\0aec8b49e11524d796a555f106c86f51\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml
+		INJECTED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:4:5-5:35
+	android:required
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:5:9-32
+	android:name
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:4:19-57
+application
+ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:6:5-21:19
+MERGED from [com.github.SpeedataG:Device:1.6.8] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\Device-1.6.8.aar\270a84bc276887531fc596ed2d1342c5\AndroidManifest.xml:14:5-18:19
+MERGED from [com.github.SpeedataG:Device:1.6.8] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\Device-1.6.8.aar\270a84bc276887531fc596ed2d1342c5\AndroidManifest.xml:14:5-18:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c712d5af017393b0b7224b87d23e2934\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c712d5af017393b0b7224b87d23e2934\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f5847dd2c156bb33f46d40f2fa728e74\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f5847dd2c156bb33f46d40f2fa728e74\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c712d5af017393b0b7224b87d23e2934\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:7:42-68
+	android:label
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:7:9-41
+	android:icon
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:6:45-79
+	android:allowBackup
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:6:18-44
+	android:theme
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:7:69-100
+activity#com.suprema.biominisample.MainActivity
+ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:8:9-15:20
+	android:label
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:8:48-80
+	android:theme
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:9:13-56
+	android:name
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:8:19-47
+intent-filter#action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:10:13-14:29
+action#android.intent.action.MAIN
+ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:11:17-69
+	android:name
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:11:25-66
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:12:17-89
+	android:name
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:12:25-87
+category#android.intent.category.LAUNCHER
+ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:13:27-74
+activity#com.suprema.biominisample.OnKeyDownActivity
+ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:16:9-17:20
+	android:name
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:16:19-77
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:19:9-20:48
+	android:resource
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:20:9-46
+	android:name
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml:19:20-82
+uses-sdk
+INJECTED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml
+INJECTED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml
+MERGED from [libBioMini-2.0.1.r2424.aar] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\libBioMini-2.0.1.r2424.aar\a55bd8e5d80bd38961dc8f3307bc6bee\AndroidManifest.xml:7:5-9:41
+MERGED from [libBioMini-2.0.1.r2424.aar] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\libBioMini-2.0.1.r2424.aar\a55bd8e5d80bd38961dc8f3307bc6bee\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\696fed009385251968b51fcec26a6853\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\696fed009385251968b51fcec26a6853\AndroidManifest.xml:20:5-44
+MERGED from [com.github.SpeedataG:Device:1.6.8] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\Device-1.6.8.aar\270a84bc276887531fc596ed2d1342c5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.SpeedataG:Device:1.6.8] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\Device-1.6.8.aar\270a84bc276887531fc596ed2d1342c5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\46656522382cd9a513a36bd49ce0a249\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\46656522382cd9a513a36bd49ce0a249\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\3874f245d79ffb30e3b0167545cca560\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\3874f245d79ffb30e3b0167545cca560\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\fb504f06500a00161b839c943a307c23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\fb504f06500a00161b839c943a307c23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\7035bc7f9e2bdb4729672a06b787eacb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\7035bc7f9e2bdb4729672a06b787eacb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\8e1c5249ac213b4fc14d18aeef045aa3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\8e1c5249ac213b4fc14d18aeef045aa3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\b83d704e790761460a5ef80caa605ae5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\b83d704e790761460a5ef80caa605ae5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4fab041faa6944f29aa983c9cde48f40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4fab041faa6944f29aa983c9cde48f40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c5ed6ba1cf4d64a5cd23e05d65d9bd82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c5ed6ba1cf4d64a5cd23e05d65d9bd82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\f51474f8a0512dbcdb90066b355ba446\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\f51474f8a0512dbcdb90066b355ba446\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\142f7a7515f334c345e65dfb2801ec38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\142f7a7515f334c345e65dfb2801ec38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\7b4ec596159782c0f8706ed751a3c6fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\7b4ec596159782c0f8706ed751a3c6fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4ff5fef9f2b60ab1e8d9af3f0dde8d54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4ff5fef9f2b60ab1e8d9af3f0dde8d54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\caaab431aef78cd356e6b4a0228d39a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\caaab431aef78cd356e6b4a0228d39a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\acf3732d447e41ae854987bd08f809b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\acf3732d447e41ae854987bd08f809b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\2a9e3dfc5dbbb4da94d9ce9725f27ec4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\2a9e3dfc5dbbb4da94d9ce9725f27ec4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\99c79e90f670ea0e1079397f766549d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\99c79e90f670ea0e1079397f766549d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b1e3565b24b9ffc08a2ae5d2da54dd77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b1e3565b24b9ffc08a2ae5d2da54dd77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1039d41c3392774a9a632edf8f9a3d5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1039d41c3392774a9a632edf8f9a3d5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c712d5af017393b0b7224b87d23e2934\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c712d5af017393b0b7224b87d23e2934\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f5847dd2c156bb33f46d40f2fa728e74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f5847dd2c156bb33f46d40f2fa728e74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\dba844674ca17e72243b669ef49e3329\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\dba844674ca17e72243b669ef49e3329\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\793e9912358cf30203ef4f83968c6870\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\793e9912358cf30203ef4f83968c6870\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\012bb29d49f494d49edf17274f8fb57a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\012bb29d49f494d49edf17274f8fb57a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\01d904d1c0b99a520d2e8da894e1941f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\01d904d1c0b99a520d2e8da894e1941f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\5ce75b90d3347826d7834ec19573645e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\5ce75b90d3347826d7834ec19573645e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b6c10f289227f68905eca52db68b1dd3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b6c10f289227f68905eca52db68b1dd3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7db5f13915aadab10a8714a983ec43d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7db5f13915aadab10a8714a983ec43d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4c09b6a10f53246bebe987bbad7d7f58\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4c09b6a10f53246bebe987bbad7d7f58\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b90900f27f3cd67dfcd9146a0e9915e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b90900f27f3cd67dfcd9146a0e9915e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\0aec8b49e11524d796a555f106c86f51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\0aec8b49e11524d796a555f106c86f51\AndroidManifest.xml:20:5-44
+INJECTED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml
+INJECTED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml
+		INJECTED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml
+		ADDED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml
+		INJECTED from F:\Speedata\BioMini_SDK_for_Android_V2.0.1.r2424_Beta\sample\biominisample\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [libBioMini-2.0.1.r2424.aar] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\libBioMini-2.0.1.r2424.aar\a55bd8e5d80bd38961dc8f3307bc6bee\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [libBioMini-2.0.1.r2424.aar] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\libBioMini-2.0.1.r2424.aar\a55bd8e5d80bd38961dc8f3307bc6bee\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [libBioMini-2.0.1.r2424.aar] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\libBioMini-2.0.1.r2424.aar\a55bd8e5d80bd38961dc8f3307bc6bee\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from [libBioMini-2.0.1.r2424.aar] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\libBioMini-2.0.1.r2424.aar\a55bd8e5d80bd38961dc8f3307bc6bee\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from [com.github.SpeedataG:Device:1.6.8] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\Device-1.6.8.aar\270a84bc276887531fc596ed2d1342c5\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from [com.github.SpeedataG:Device:1.6.8] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\Device-1.6.8.aar\270a84bc276887531fc596ed2d1342c5\AndroidManifest.xml:11:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.github.SpeedataG:Device:1.6.8] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\Device-1.6.8.aar\270a84bc276887531fc596ed2d1342c5\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.github.SpeedataG:Device:1.6.8] C:\Users\Cmax\.gradle\caches\transforms-1\files-1.1\Device-1.6.8.aar\270a84bc276887531fc596ed2d1342c5\AndroidManifest.xml:12:22-76

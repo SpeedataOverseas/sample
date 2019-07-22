@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.SpeedataG:Device:1.6.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Device-1.6.8.aar/270a84bc276887531fc596ed2d1342c5/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Device-1.6.8.aar/270a84bc276887531fc596ed2d1342c5/jars/libs/SystemProperties.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Device-1.6.8.aar/270a84bc276887531fc596ed2d1342c5/jars/libs/jxl.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Device-1.6.8.aar/270a84bc276887531fc596ed2d1342c5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.speedatag/Device/1.6.8/d5b97eb78abb8ca8eeb196ad019b567aa430b6ba/Device-1.6.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
